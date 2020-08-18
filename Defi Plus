@@ -1,5 +1,5 @@
 /**
- *Submitted for verification at Etherscan.io on 2020-07-30
+ *Submitted for verification at tronscan.io on 2020-07-30
 */
 
 pragma solidity ^0.5.9;
